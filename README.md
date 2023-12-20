@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ZhijianZhou01/ZhijianZhou01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +18,9 @@ Here are some ideas to get you started:
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZhijianZhou01" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijianZhou01&layout=compact&langs_count=8" />
 <span>  </span>
+</div>
+
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZhijianZhou01" />
 </div>
