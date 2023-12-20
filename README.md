@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 <!--
 <div align="center">
 <span>  </span>
@@ -21,6 +22,10 @@ Here are some ideas to get you started:
 <span>  </span>
 </div>
 -->
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hang+on+to+your+dreams!+" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ZhijianZhou01" />
