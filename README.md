@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left">
+<div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZhijianZhou01" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhijianZhou01&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ZhijianZhou01" />
 <span>  </span>
 </div>
 
