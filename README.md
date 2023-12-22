@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=24&pause=1000&color=EE7942&center=true&random=true&width=435&lines=Hang+on+to+your+dreams!+" alt="Typing SVG" /></a>
 </div>
